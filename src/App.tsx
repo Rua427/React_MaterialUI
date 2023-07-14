@@ -1,9 +1,12 @@
 import React from 'react'
 import './App.css'
+import  MuiSkeleton from './components/MuiSkeleton'
 
 const App = () => {
   return (
-    <>React_Template</>
+    <div>
+      <MuiSkeleton/>
+    </div>
   )
 }
 

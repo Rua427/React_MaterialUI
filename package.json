@@ -1,8 +1,11 @@
 {
-  "name": "webpack",
+  "name": "reactmui",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.14.0",
     "acorn": "^8.10.0",
     "acorn-import-assertions": "^1.9.0",
     "ajv": "^6.12.6",
